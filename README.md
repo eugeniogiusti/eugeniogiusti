@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;World)](https://git.io/typing-svg)
+
+
 My bio___
 {
 📫I graduated from high school in electronics and touched on topics such as systems, telecommunications, digital and analog electronics but I discovered after graduation that I have more of a penchant for information technology.
