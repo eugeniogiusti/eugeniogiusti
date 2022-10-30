@@ -18,3 +18,5 @@ infrastructure and focus primarily on software.
 📫My goal is always to improve and become a better professional in my industry by sharing my knowledge with others so that there is a mutual exchange. 
 I am aware that my work if done with love and dedication can improve people's quality of life.
 }
+
+![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/95194894/198886428-259972b1-1b91-495c-811c-5810267d0878.gif)
