@@ -22,4 +22,4 @@ I am aware that my work if done with love and dedication can improve people's qu
 }
 
 ![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/95194894/198886428-259972b1-1b91-495c-811c-5810267d0878.gif)
-![SomberGorgeousIndiancow-max-1mb](https://user-images.githubusercontent.com/95194894/198899618-e5bcf634-aef6-42f8-9ed8-013c96a1ec03.gif)
+                                  ![SomberGorgeousIndiancow-max-1mb](https://user-images.githubusercontent.com/95194894/198899618-e5bcf634-aef6-42f8-9ed8-013c96a1ec03.gif)
