@@ -6,7 +6,7 @@
 
   <div class="about-me">
     <p>System Engineer with a proven track record in designing, implementing, and managing scalable IT infrastructures. 
-	Passionate about open-source technologies,Linux, Bash, Virtualization and networking.
+	Passionate about open-source technologies, Linux, Bash, Virtualization and networking.
 	Focused on automation and delivering reliable, high-performance solutions.</p>
   </div>
   <p class="contact"> How to reach me: <a href="mailto:eugenio.giusti@outlook.it">eugenio.giusti@outlook.it</a></p>
