@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
-<h3 align="center">A passionate System Administrator</h3>
+<h3 align="center">A passionate System Engineer</h3>
 
   <div class="about-me">
     <p>System Engineer with a proven track record in designing, implementing, and managing scalable IT infrastructures. 
