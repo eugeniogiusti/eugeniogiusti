@@ -5,7 +5,7 @@
 <h3 align="center">A passionate System Engineer</h3>
 
   <div class="about-me">
-    <p>System Engineer with a strong background in designing, deploying, and optimizing scalable IT infrastructures, both on-premise and in the cloud. Passionate about open-source technologies, Linux, Windows, and automation, with expertise in Bash, PowerShell, virtualization, cloud platforms, and networking. Committed to delivering high-performance, reliable solutions through innovation and efficiency.</p>
+    <p>System Engineer with a strong background in deploying, and optimizing scalable IT infrastructures. Passionate about open-source technologies, Linux, Windows, and automation, with expertise in Bash, PowerShell, virtualization, cloud platforms, and networking. Committed to delivering high-performance, reliable solutions through innovation and efficiency.</p>
   </div>
   <p class="contact"> How to reach me: <a href="mailto:eugenio.giusti@outlook.it">eugenio.giusti@outlook.it</a></p>
 </body>
