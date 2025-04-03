@@ -11,7 +11,7 @@ System Engineer with 10+ years of experience in managing and deploying IT infras
 I work across Linux & Windows environments, with a focus on automation, security, and performance.  
 Over time, I’ve expanded into building web-based tools that solve real problems and simplify workflows for professionals and businesses.
 
-I love mixing solid infrastructure** with smart web interfaces to create end-to-end solutions** that actually help people.
+I love mixing solid infrastructure with smart web interfaces to create end-to-end solutions that actually help people.
 
 ---
 
