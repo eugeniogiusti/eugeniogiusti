@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Welcome+to+my+GitHub!;System+Engineer+%7C+Web+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Welcome+to+my+GitHub!;Systems+%7C+Web+%7C+Cloud)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">System Engineer & Web Solutions Builder</h3>
