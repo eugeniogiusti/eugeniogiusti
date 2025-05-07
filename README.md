@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-System Engineer with 10+ years of experience in managing and deploying IT infrastructures, both on-premise and in the cloud.  
+Web dev/System Engineer with 10+ years of experience in managing and deploying IT infrastructures, both on-premise and in the cloud.  
 I work across Linux & Windows environments, with a focus on automation, security, and performance.  
 Over time, I’ve expanded into building web-based tools that solve real problems and simplify workflows for professionals and businesses.
 
