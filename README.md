@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-Web dev/System Engineer with 10+ years of experience in managing and deploying IT infrastructures, both on-premise and in the cloud.  
+Web dev/System Engineer with 10+ years of experience in managing and deploying IT infrastructures, Applications, both on-premise and in the cloud.  
 I work across Linux & Windows environments, with a focus on automation, security, and performance.  
 Over time, I’ve expanded into building web-based tools that solve real problems and simplify workflows for professionals and businesses.
 
@@ -16,7 +16,7 @@ I love mixing solid infrastructure with smart web interfaces to create end-to-en
 ---
 
 ### 📬 How to reach me  
-📧 [eugenio.giusti@outlook.it](mailto:eugenio.giusti@outlook.it)  
+📧 [info@eugeniogiustitechsolutions.com](mailto:info@eugeniogiustitechsolutions.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/eugenio-giusti/)  
 🌐 [My Website](https://eugeniogiustitechsolutions.com)
 
