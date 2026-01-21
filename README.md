@@ -18,7 +18,7 @@ I love mixing solid infrastructure with smart web interfaces to create end-to-en
 ### 📬 How to reach me  
 📧 [info@eugeniogiustitechsolutions.com](mailto:info@eugeniogiustitechsolutions.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/eugenio-giusti/)  
-🌐 [My Website](https://eugeniogiustitechsolutions.com)
+🌐 [My Website](https://eugeniogiustitechsolutions.com)  
 ✖️ [X](https://x.com/eugeniogiusti)
 
 ---
