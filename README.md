@@ -19,6 +19,7 @@ I love mixing solid infrastructure with smart web interfaces to create end-to-en
 📧 [info@eugeniogiustitechsolutions.com](mailto:info@eugeniogiustitechsolutions.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/eugenio-giusti/)  
 🌐 [My Website](https://eugeniogiustitechsolutions.com)
+✖️ [X](https://x.com/eugeniogiusti)
 
 ---
 
@@ -30,6 +31,8 @@ I love mixing solid infrastructure with smart web interfaces to create end-to-en
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="php"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40" alt="apache"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="aws"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="docker"/></a>
 </p>
